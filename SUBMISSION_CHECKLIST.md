@@ -17,7 +17,7 @@
 
 ## FL-10
 
-- [x] Master repository/folder - TODO — USER ACTION (git init done, but need to commit and push to a remote repository)
+- [x] Master repository/folder - VERIFIED (https://github.com/Praveen23-kk/-praveen-personal-brand)
 - [x] Index linking every deliverable - READY
 - [x] 500-800 word retrospective - VERIFIED
 - [ ] Hours log completed with real hours - TODO — USER ACTION (fill with actual sessions)
@@ -31,7 +31,7 @@
 
 ## Manual TODOs Before Final Submission
 
-- TODO — USER ACTION: Commit code and add repository URL after pushing source code to GitHub.
+- VERIFIED: Repository is live at https://github.com/Praveen23-kk/-praveen-personal-brand
 - TODO — USER ACTION: Record and upload the 3-5 minute live demo.
 - VERIFIED: Captured evidence that a real contact-form test submission reached Netlify Forms.
 - TODO — USER ACTION: Fill the hours log with actual dates, times, and evidence.
