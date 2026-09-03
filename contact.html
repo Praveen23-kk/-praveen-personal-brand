@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Send a message to K Praveen Kumar, ML Engineer Intern." />
+    <meta name="theme-color" content="#0b0e12" />
+    <link rel="canonical" href="https://k-praveenkumar.netlify.app/contact" />
+    <meta name="robots" content="noindex" />
+    <title>Contact K Praveen Kumar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="audit.css" />
+    <style>.contact-page{padding:80px 0 100px}.contact-page h1{font-size:clamp(3rem,7vw,6rem);line-height:.9;margin:18px 0 24px}.contact-intro{max-width:590px;color:var(--muted);font-size:16px}.contact-form{max-width:700px;margin-top:50px;display:grid;gap:19px}.contact-form label{display:grid;gap:8px;font:500 11px 'DM Mono',monospace;letter-spacing:.08em;color:var(--accent)}.contact-form input,.contact-form textarea{border:1px solid var(--line);background:rgba(255,255,255,.035);color:var(--text);font:15px Manrope,system-ui,sans-serif;padding:14px;outline:none}.contact-form input:focus,.contact-form textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(144,243,220,.1)}.contact-form textarea{min-height:150px;resize:vertical}.contact-form button{justify-self:start;border:0;cursor:pointer}.contact-note{max-width:700px;border-top:1px solid var(--line);margin-top:76px;padding-top:28px;color:var(--muted);font-size:14px}.contact-note h2{color:var(--text);font-size:22px;margin-bottom:14px}.contact-note strong{color:var(--accent)}.back-link{font-size:12px;color:var(--text);text-decoration:none;border-bottom:1px solid var(--accent);padding-bottom:4px}</style>
+  </head>
+  <body>
+    <header class="site-header wrap"><a class="monogram" href="index.html" aria-label="Back to portfolio">PK</a><a class="back-link" href="index.html">← Back to portfolio</a></header>
+    <main class="contact-page wrap">
+      <p class="kicker"><span class="status-dot"></span> ONE MESSAGE, DIRECTLY TO ME</p>
+      <h1>Let’s build<br /><em>something useful.</em></h1>
+      <p class="contact-intro">Use this form for opportunities, collaboration, or a good conversation about machine learning and practical AI.</p>
+      <form class="contact-form" name="portfolio-contact" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="portfolio-contact" />
+        <input type="hidden" name="subject" value="New message from Praveen Kumar's portfolio" />
+        <p hidden><label>Don’t fill this out if you’re human: <input name="bot-field" /></label></p>
+        <label>Your name <input name="name" autocomplete="name" minlength="2" maxlength="80" required /></label>
+        <label>Email address <input type="email" name="email" autocomplete="email" maxlength="254" required /></label>
+        <label>Your message <textarea name="message" minlength="10" maxlength="2000" required></textarea></label>
+        <button class="action" type="submit">Send message <span>→</span></button>
+        <p id="form-status" class="form-status" aria-live="polite"></p>
+      </form>
+      <section class="contact-note" aria-labelledby="how-it-works"><h2 id="how-it-works">How this works</h2><p><strong>A backend</strong> is the part of a website that receives information and does work behind the scenes. This portfolio does not run its own server: Netlify provides that backend on its free Forms service.</p><p>When you press Send message, the browser securely sends your name, email, and message to Netlify. Netlify checks the hidden spam field, saves genuine submissions in this site’s Forms dashboard, and then shows the thank-you page. I can open that dashboard to read and reply to your message.</p></section>
+    </main>
+    <script src="contact.js"></script>
+  </body>
+</html>

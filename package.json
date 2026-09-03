@@ -1,0 +1,10 @@
+{
+  "name": "praveen-personal-brand",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal brand site and résumé-grounded AI agent for K. Praveen Kumar.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}

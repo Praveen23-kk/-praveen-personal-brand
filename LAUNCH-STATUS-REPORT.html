@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio Launch Status — K Praveen Kumar</title>
+    <style>
+      @page { size: A4; margin: 16mm; }
+      * { box-sizing: border-box; }
+      body { margin: 0; color: #172033; font: 11pt/1.55 Arial, sans-serif; }
+      h1 { margin: 0 0 4px; font-size: 25pt; letter-spacing: -.6px; }
+      h2 { margin: 22px 0 8px; font-size: 14pt; }
+      .eyebrow { color: #087f73; font-weight: 700; letter-spacing: 1.2px; font-size: 9pt; }
+      .url { margin: 14px 0; padding: 11px 13px; background: #edf9f7; border-left: 4px solid #19b6a1; font-weight: 700; }
+      .status { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+      .item { border: 1px solid #d7dce5; border-radius: 6px; padding: 9px 11px; }
+      .ok { color: #087f73; font-weight: 700; }
+      .pending { color: #9d5f00; font-weight: 700; }
+      figure { margin: 12px 0 0; }
+      img { width: 100%; border: 1px solid #d7dce5; border-radius: 6px; }
+      figcaption { color: #586174; font-size: 9.5pt; margin-top: 5px; }
+      ul { padding-left: 20px; margin: 6px 0; }
+      footer { margin-top: 16px; color: #586174; font-size: 9pt; }
+    </style>
+  </head>
+  <body>
+    <p class="eyebrow">PORTFOLIO LAUNCH STATUS</p>
+    <h1>K Praveen Kumar</h1>
+    <p>Snapshot prepared 3 September 2026.</p>
+    <p class="url">Live HTTPS URL: https://k-praveenkumar.netlify.app</p>
+
+    <h2>Required launch checks</h2>
+    <div class="status">
+      <div class="item"><span class="ok">✓ Live custom-domain fallback over HTTPS</span><br>The clean fallback subdomain <strong>k-praveenkumar.netlify.app</strong> returned successfully over HTTPS.</div>
+      <div class="item"><span class="ok">✓ Live title and favicon</span><br>The real address has the title “K Praveen Kumar — ML Engineer” and a favicon.</div>
+      <div class="item"><span class="pending">• Analytics screenshot — revise</span><br>Analytics is not installed, so there is no truthful analytics-installed screenshot yet. It requires an account or site token.</div>
+      <div class="item"><span class="pending">• Social-share preview — revise</span><br>Open Graph metadata is prepared locally but has not yet been published to the real address.</div>
+      <div class="item"><span class="pending">• Graduate badge in live footer — revise</span><br>The official badge is prepared locally; publishing it and adding the personal credential ID are still required.</div>
+      <div class="item"><span class="pending">• Personal verification page — revise</span><br>The exact verification link needs K Praveen Kumar’s FlyRank credential ID.</div>
+    </div>
+
+    <h2>Live URL screenshot</h2>
+    <figure>
+      <img src="launch-live-url-screenshot.png" alt="Desktop screenshot of the K Praveen Kumar portfolio at k-praveenkumar.netlify.app">
+      <figcaption>Captured from https://k-praveenkumar.netlify.app on 3 September 2026.</figcaption>
+    </figure>
+
+    <h2>Pass / revise result</h2>
+    <p><strong>Current result: revise.</strong> The site satisfies the clean fallback-subdomain and HTTPS requirement. It cannot yet pass the remaining requirements because analytics, the published social preview, and the personally verifiable footer badge are not live.</p>
+
+    <h2>What is needed to complete launch</h2>
+    <ul>
+      <li>Provide the chosen domain and DNS registrar access.</li>
+      <li>Provide analytics access or a Cloudflare Web Analytics site token.</li>
+      <li>Provide the FlyRank credential ID for the personal verification URL.</li>
+      <li>Publish the prepared local updates to Netlify.</li>
+    </ul>
+    <footer>This report distinguishes confirmed live checks from items that still require account-specific access or publishing.</footer>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+/* Reliability and accessibility improvements from the mobile audit. */
+.monogram{width:44px;height:44px}
+footer a{display:inline-flex;align-items:center;min-height:44px;padding:0 4px}
+.site-footer{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px}.site-footer p{margin-right:auto}.flyrank-graduate-badge{gap:8px;color:var(--text)}.flyrank-graduate-badge img{width:40px;height:40px;object-fit:contain;border-radius:8px}.flyrank-graduate-badge span{font-size:13px;font-weight:700}
+.link-grid{grid-template-columns:repeat(2,1fr)}
+.booking{display:none}
+
+@media (max-width:720px){
+  .site-header .resume-link{min-height:44px;display:inline-flex;align-items:center}
+  .action{min-height:44px}
+}
+
+.form-status{min-height:1.5em;margin:0;color:var(--accent);font-size:13px}
+.contact-form button:disabled{cursor:wait;opacity:.72}
+
+.capstone-layout{display:grid;grid-template-columns:1.15fr .85fr;gap:70px;align-items:start}
+.capstone h2{font-size:clamp(2.2rem,4.8vw,4.5rem);letter-spacing:-.075em;line-height:1;margin-bottom:28px}
+.capstone p:not(.section-label){color:var(--muted);max-width:680px;font-size:14px}
+.capstone-actions{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:center;margin-top:30px}
+.capstone-actions>a:not(.action){font:700 11px 'DM Mono',monospace;letter-spacing:.08em;color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(144,243,220,.5);padding-bottom:5px}
+.capstone-panel{border-left:1px solid var(--line);padding-left:32px}
+.capstone-panel ul{padding:0;margin:18px 0 0;list-style:none}
+.capstone-panel li{font-size:13px;color:#c4cbca;padding:11px 0;border-bottom:1px solid var(--line)}
+.capstone-panel strong,.learned strong{color:var(--text)}
+.learned{border-left:1px solid var(--accent);padding-left:16px;margin-top:24px}
+
+@media (max-width:720px){
+  .capstone-layout{grid-template-columns:1fr;gap:26px}
+  .capstone h2{margin-bottom:25px}
+  .capstone-panel{border-left:0;border-top:1px solid var(--line);padding:28px 0 0}
+  .capstone-actions{align-items:flex-start;flex-direction:column}
+  .capstone-actions .action{width:100%;justify-content:space-between}
+}
