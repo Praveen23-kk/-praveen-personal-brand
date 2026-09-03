@@ -10,7 +10,7 @@
 - [x] Limitations - READY
 - [x] AI transparency statement - READY
 - [ ] 3-5 minute demo - TODO — USER ACTION (record and upload live demo video)
-- [ ] Live end-to-end run - TODO — USER ACTION (record or screenshot a real Netlify Forms submission reaching the dashboard)
+- [x] Live end-to-end run - VERIFIED (screenshot captured of Netlify Forms submission)
 - [x] Design decision explained on camera - READY (script/checklist prepared)
 - [x] Limitation explained on camera - READY (script/checklist prepared)
 - [ ] Showcase thread post - TODO — USER ACTION (publish and add URL)
@@ -33,7 +33,7 @@
 
 - TODO — USER ACTION: Commit code and add repository URL after pushing source code to GitHub.
 - TODO — USER ACTION: Record and upload the 3-5 minute live demo.
-- TODO — USER ACTION: Capture evidence that a real contact-form test submission reached Netlify Forms.
+- VERIFIED: Captured evidence that a real contact-form test submission reached Netlify Forms.
 - TODO — USER ACTION: Fill the hours log with actual dates, times, and evidence.
 - TODO — USER ACTION: Publish the build-in-public post and add its URL.
 - TODO — USER ACTION: Complete the V1/V2 evaluation table with real evidence.
