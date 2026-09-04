@@ -2,9 +2,9 @@
 
 Project link: https://k-praveenkumar.netlify.app/
 
-Demo video: TODO - add the real 3-5 minute demo URL after uploading
+Demo video: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
 
-Published post URL: TODO - add the real URL after posting
+Published post URL: https://x.com/Praveenk_23/status/2095714852358733921?s=20
 
 ---
 
@@ -26,4 +26,4 @@ Next, I want to add a stronger case-study section with real project write-ups an
 
 Live portfolio: https://k-praveenkumar.netlify.app/
 
-Demo: TODO - add demo video URL
+Demo: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing

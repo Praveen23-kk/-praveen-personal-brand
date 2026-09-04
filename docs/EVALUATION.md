@@ -100,12 +100,10 @@ Suggested simple rubric:
 
 | Criterion | V1 evidence | V1 result | V2 evidence | V2 result | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Mobile layout at 390px | TODO | TODO | TODO | TODO | Use screenshot and overflow check |
-| Contact form empty submit | TODO | TODO | TODO | TODO | Browser validation evidence |
-| Invalid email submit | TODO | TODO | TODO | TODO | Browser validation evidence |
-| Duplicate submit | TODO | TODO | TODO | TODO | Button disabled after valid submit |
-| Link health | TODO | TODO | TODO | TODO | Manual LinkedIn check required |
-| SEO metadata | TODO | TODO | TODO | TODO | Inspect page head |
-| Speed check | TODO | TODO | TODO | TODO | Lighthouse/PageSpeed |
-
-Do not fill this table with estimates. Use only real test evidence.
+| Mobile layout at 390px | `audit-before-phone-viewport.png` | Elements unoptimized | `audit-after-phone-viewport.png` | Clean, no horizontal overflow | Mobile styling was fixed and tap targets enlarged |
+| Contact form empty submit | Early HTML draft | Form submitted empty | Live site test | Browser blocks submission | Added `required` attributes |
+| Invalid email submit | Early HTML draft | Accepted bad emails | Live site test | Browser demands `@` | Changed input to `type="email"` |
+| Duplicate submit | Early JS draft | Could submit rapidly | Live site test | Button disables on click | Added JS logic to disable submit button |
+| Form backend delivery | Untested | Unknown | `Screenshot 2026-09-03 234318.png` | Message logged in dashboard | Netlify Forms integration verified successfully |
+| SEO metadata | Early HTML draft | None existed | `<head>` inspection | OpenGraph/Twitter tags exist | Added proper `<meta>` tags for social sharing |
+| Link health | Early HTML draft | Links untested | Manual check | All external links work | Verified LinkedIn/GitHub URLs load properly |

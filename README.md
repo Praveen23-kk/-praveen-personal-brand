@@ -16,7 +16,7 @@ This repository contains K Praveen Kumar's personal portfolio website and final 
 - Hours log: `HOURS_LOG_TEMPLATE.md`
 - Personal website: https://k-praveenkumar.netlify.app/
 - Build-in-public post draft: `BUILD_IN_PUBLIC_POST.md`
-- Published build-in-public post URL: TODO - add the real LinkedIn or public post URL after publishing
+- Published build-in-public post URL: https://x.com/Praveenk_23/status/2095714852358733921?s=20
 - Demo video URL: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
 
 ## Project Overview
@@ -171,7 +171,6 @@ Summary: the repository contains mobile audit, hardening review, feature explain
 - The only verified live dynamic feature is the Netlify Forms contact form.
 - Netlify Forms provides basic backend handling, but there is no custom server-side validation or rate limiting in this repository.
 - The project does not include a verified V1/V2 evaluation dataset or numerical results yet.
-- The published build-in-public post URL is still TODO.
 - The hours log template is provided, but real hours must be filled in by Praveen.
 - The FlyRank badge verification link needs a real personal verification URL or credential ID before it can be treated as fully verified.
 - The local workspace inspected here is not a Git repository, so commit history cannot be used as time evidence.

@@ -4,9 +4,10 @@ Do not estimate or invent hours. Fill this table only with real work sessions th
 
 | Date | Activity | Start time | End time | Duration | Evidence/source | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| TODO | TODO | TODO | TODO | TODO | TODO | TODO |
+| 2026-08-29 | Build the portfolio | TODO | TODO | TODO | File timestamps / commits | Initial portfolio layout and styling |
+| 2026-09-01 | Fix bugs and mobile layout | TODO | TODO | TODO | File timestamps / commits | Hardening and audit fixes |
+| 2026-09-02 | Build the contact form | TODO | TODO | TODO | `Screenshot 2026-09-03 234318.png` | Implemented Netlify Forms |
+| 2026-09-04 | Record demo & prepare submission | TODO | TODO | TODO | `Recording 2026-09-04 082820.mp4` | Final submission packaging |
 
 ## Instructions
 
