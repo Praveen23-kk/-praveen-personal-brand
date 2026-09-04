@@ -2,7 +2,7 @@
 
 Project link: https://k-praveenkumar.netlify.app/
 
-Demo video: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
+Demo video: https://youtu.be/yihe5P0Ih_8
 
 Published post URL: https://x.com/Praveenk_23/status/2095714852358733921?s=20
 
@@ -26,4 +26,4 @@ Next, I want to add a stronger case-study section with real project write-ups an
 
 Live portfolio: https://k-praveenkumar.netlify.app/
 
-Demo: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
+Demo: https://youtu.be/yihe5P0Ih_8

@@ -17,7 +17,7 @@ This repository contains K Praveen Kumar's personal portfolio website and final 
 - Personal website: https://k-praveenkumar.netlify.app/
 - Build-in-public post draft: `BUILD_IN_PUBLIC_POST.md`
 - Published build-in-public post URL: https://x.com/Praveenk_23/status/2095714852358733921?s=20
-- Demo video URL: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
+- Demo video URL: https://youtu.be/yihe5P0Ih_8
 
 ## Project Overview
 
@@ -181,6 +181,6 @@ AI tools including ChatGPT/Codex were used to assist with frontend implementatio
 
 ## Demo
  
-Demo video: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
+Demo video: https://youtu.be/yihe5P0Ih_8
  
 Use `DEMO_SCRIPT.md` and `DEMO_CHECKLIST.md` to record the demo. The demo should show the real website and contact form, not slides.

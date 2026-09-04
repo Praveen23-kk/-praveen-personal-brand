@@ -9,7 +9,7 @@
 - [x] V2 evaluation results - VERIFIED (rubric completed with evidence)
 - [x] Limitations - READY
 - [x] AI transparency statement - READY
-- [x] 3-5 minute demo - READY (https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing)
+- [x] 3-5 minute demo - READY (https://youtu.be/yihe5P0Ih_8)
 - [x] Live end-to-end run - VERIFIED (screenshot captured of Netlify Forms submission)
 - [x] Design decision explained on camera - READY (script/checklist prepared)
 - [x] Limitation explained on camera - READY (script/checklist prepared)
@@ -32,7 +32,7 @@
 ## Manual TODOs Before Final Submission
 
 - VERIFIED: Repository is live at https://github.com/Praveen23-kk/-praveen-personal-brand
-- VERIFIED: 3-5 minute live demo uploaded (https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing)
+- VERIFIED: 3-5 minute live demo uploaded (https://youtu.be/yihe5P0Ih_8)
 - VERIFIED: Captured evidence that a real contact-form test submission reached Netlify Forms.
 - VERIFIED: Filled the hours log with dates and activities.
 - VERIFIED: Published the build-in-public post (https://x.com/Praveenk_23/status/2095714852358733921?s=20)
