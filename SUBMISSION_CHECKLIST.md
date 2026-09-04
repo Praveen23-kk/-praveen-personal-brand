@@ -9,7 +9,7 @@
 - [ ] V2 evaluation results - TODO — USER ACTION (complete with real V1/V2 evidence, not estimates)
 - [x] Limitations - READY
 - [x] AI transparency statement - READY
-- [ ] 3-5 minute demo - TODO — USER ACTION (record and upload live demo video)
+- [x] 3-5 minute demo - READY (https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing)
 - [x] Live end-to-end run - VERIFIED (screenshot captured of Netlify Forms submission)
 - [x] Design decision explained on camera - READY (script/checklist prepared)
 - [x] Limitation explained on camera - READY (script/checklist prepared)
@@ -32,7 +32,7 @@
 ## Manual TODOs Before Final Submission
 
 - VERIFIED: Repository is live at https://github.com/Praveen23-kk/-praveen-personal-brand
-- TODO — USER ACTION: Record and upload the 3-5 minute live demo.
+- VERIFIED: 3-5 minute live demo uploaded (https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing)
 - VERIFIED: Captured evidence that a real contact-form test submission reached Netlify Forms.
 - TODO — USER ACTION: Fill the hours log with actual dates, times, and evidence.
 - TODO — USER ACTION: Publish the build-in-public post and add its URL.

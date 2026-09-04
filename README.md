@@ -17,7 +17,7 @@ This repository contains K Praveen Kumar's personal portfolio website and final 
 - Personal website: https://k-praveenkumar.netlify.app/
 - Build-in-public post draft: `BUILD_IN_PUBLIC_POST.md`
 - Published build-in-public post URL: TODO - add the real LinkedIn or public post URL after publishing
-- Demo video URL: TODO - upload the 3-5 minute live demo and add the real URL
+- Demo video URL: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
 
 ## Project Overview
 
@@ -171,7 +171,7 @@ Summary: the repository contains mobile audit, hardening review, feature explain
 - The only verified live dynamic feature is the Netlify Forms contact form.
 - Netlify Forms provides basic backend handling, but there is no custom server-side validation or rate limiting in this repository.
 - The project does not include a verified V1/V2 evaluation dataset or numerical results yet.
-- The demo video URL and published build-in-public post URL are still TODO.
+- The published build-in-public post URL is still TODO.
 - The hours log template is provided, but real hours must be filled in by Praveen.
 - The FlyRank badge verification link needs a real personal verification URL or credential ID before it can be treated as fully verified.
 - The local workspace inspected here is not a Git repository, so commit history cannot be used as time evidence.
@@ -181,7 +181,7 @@ Summary: the repository contains mobile audit, hardening review, feature explain
 AI tools including ChatGPT/Codex were used to assist with frontend implementation, debugging, documentation writing, assignment packaging, and review checklists. The generated work was reviewed against the actual project files and kept honest with TODO markers where evidence is missing. This README does not claim that every line was handwritten without AI assistance.
 
 ## Demo
-
-Demo video: TODO - upload 3-5 minute live demo
-
+ 
+Demo video: https://drive.google.com/file/d/1tEoLV3U51kE-qnXcq-tQV3OwrOrrVe10/view?usp=sharing
+ 
 Use `DEMO_SCRIPT.md` and `DEMO_CHECKLIST.md` to record the demo. The demo should show the real website and contact form, not slides.
